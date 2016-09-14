@@ -1,0 +1,90 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "node-red-contrib-ab",
+        "scope": null,
+        "escapedName": "node-red-contrib-ab",
+        "name": "node-red-contrib-ab",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "/root/.node-red"
+    ]
+  ],
+  "_from": "node-red-contrib-ab@latest",
+  "_id": "node-red-contrib-ab@0.1.1",
+  "_inCache": true,
+  "_installable": true,
+  "_location": "/node-red-contrib-ab",
+  "_nodeVersion": "4.2.1",
+  "_npmOperationalInternal": {
+    "host": "exxerpro.internal.npmjs.com",
+    "tmp": "tmp/node-red-contrib-ab-0.1.1.tgz_1469549740703_0.37569692241959274"
+  },
+  "_npmUser": {
+    "name": "hebelmx",
+    "email": "hebelmx@gmail.com"
+  },
+  "_npmVersion": "2.14.7",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "node-red-contrib-ab",
+    "scope": null,
+    "escapedName": "node-red-contrib-ab",
+    "name": "node-red-contrib-ab",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER"
+  ],
+  "_resolved": "https://registry.npmjs.org/node-red-contrib-ab/-/node-red-contrib-ab-0.1.1.tgz",
+  "_shasum": "5c56e5ca42ca7a57873ebce509bbbc5e5b71d640",
+  "_shrinkwrap": null,
+  "_spec": "node-red-contrib-ab",
+  "_where": "/root/.node-red",
+  "author": {
+    "name": "Abel Briones",
+	"email": "hebelmx@gmail.com"
+  },
+  "dependencies": {
+    "nodepccc": "latest"	
+  },
+  "description": "A Node-RED node to interact with Allen Bradley PLC's",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "5c56e5ca42ca7a57873ebce509bbbc5e5b71d640",
+    "tarball": "https://registry.npmjs.org/node-red-contrib-ab/-/node-red-contrib-ab-0.1.1.tgz"
+  },
+  "gitHead": "e58e3ca862bd49861353aae4ee671e1d4e2d2ddb",
+  "keywords": [
+    "hardware",
+    "ab",
+    "plc",
+    "node-red"
+  ],
+  "license": "Apache-2.0",
+  "main": "index.js",
+  "maintainers": [
+    {
+      "name": "Abel Briones",
+      "email": "hebelmx@gmail.com"
+    }
+  ],
+  "name": "node-red-contrib-ab",
+  "node-red": {
+    "nodes": {
+      "ab": "red/ab.js"
+    }
+  },
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.1.1"
+}
