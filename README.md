@@ -4,7 +4,7 @@ A Node-RED node to interact with Siemens Allen-Bradley PLCs.
 
 Based on the awesome work of [plcpeople/nodepccc](https://github.com/plcpeople/nodepccc).
 
-Based on the awesome work of [netsmarttech /node-red-contrib-s7](https://github.com/netsmarttech/node-red-contrib-s7(
+Based on the awesome work of [netsmarttech /node-red-contrib-s7](https://github.com/netsmarttech/node-red-contrib-s7).
 
 Install
 -----------
