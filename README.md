@@ -11,7 +11,11 @@ Install
 
 Run the following command in your Node-RED user directory - typically `~/.node-red`
 
-        npm install node-red-contrib-ab
+        npm install -g node-red-contrib-ab
+	
+Or my favorite
+
+	node-red-admin install node-red-contrib-ab
 
 		
 Limitations
